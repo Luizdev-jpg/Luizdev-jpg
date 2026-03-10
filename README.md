@@ -1,4 +1,7 @@
-## Hi there 👋
+## Olá! Eu sou o Luiz 👋
+
+- 🔭 Atualmente trabalho como Back-end
+- 🌱 Estudando Python
 
 <!--
 **Luizdev-jpg/Luizdev-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
