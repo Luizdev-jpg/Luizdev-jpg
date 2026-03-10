@@ -1,8 +1,8 @@
-## Olá! Eu sou o Luiz 👋
+# Olá, sou Luiz Fernando 👋
 
-- 🔭 Atualmente trabalho como Back-end
-- 🌱 Estudando Python
-
+ - 💻 Desenvolvedor
+ - 📊 SQL | PostgreSQL | BI
+ - 🚀 Aprendendo programação e dados
 <!--
 **Luizdev-jpg/Luizdev-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
