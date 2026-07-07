@@ -2,7 +2,6 @@
 
  - 💻 Desenvolvedor
  - 📊 SQL | PostgreSQL | BI
- - 🚀 Aprendendo programação e dados
 <!--
 **Luizdev-jpg/Luizdev-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
